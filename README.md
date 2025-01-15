@@ -2,7 +2,7 @@
 Podcast sobre os desafios femininos no mercado de trabalho digital
 <p align="center">
 <img 
-    src="./assets/Capa para PodCast o Código Delas.png"
+    src="./Assets/Capa para PodCast o Código Delas.png"
     width="300"
 />
 </p>
