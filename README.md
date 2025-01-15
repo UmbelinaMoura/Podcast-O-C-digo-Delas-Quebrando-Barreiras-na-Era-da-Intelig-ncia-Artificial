@@ -1,19 +1,9 @@
 # Podcast-O-Codigo-Delas-Quebrando-Barreiras-na-Era-da-Inteligencia-Artificial
 Podcast sobre os desafios femininos no mercado de trabalho digital
-<p align="center">
-<img 
-    src="./Assets/Capa para PodCast o Código Delas.png"
-/>
-</p>
 
-<p align="center">
-    <a href="https://github.com/roseangelly/prompts-for-podcast-generate-by-ia/blob/main/output/O%20tesouro%20do%20bem%20estar.mp3"> EP.1_Caixa dos presentes 🎶Clique aqui para ouvir</a>
+![Logo do Projeto](./Capa para PodCast o Código Delas.png)
 
-</p>
 
-<div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
-</div>
 
 # Projeto Podcast Gerado por I.A.s
 
