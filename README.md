@@ -3,8 +3,6 @@ Podcast sobre os desafios femininos no mercado de trabalho digital
 
 📕 [Clique aqui para acessar epsódio completo!](AUDIO DO PODCAST DIO CAIXA.mp3)
 
-![Descrição da Imagem](./github/assets/Capa para PodCast o Código Delas.png)
-
 
 # Projeto Podcast Gerado por I.A.s
 
