@@ -1,7 +1,7 @@
 # Podcast-O-Codigo-Delas-Quebrando-Barreiras-na-Era-da-Inteligencia-Artificial
 Podcast sobre os desafios femininos no mercado de trabalho digital
 
-📕 [Clique aqui para acessar epsódio completo!](https://github.com/UmbelinaMoura/Podcast-O-Codigo-Delas-Quebrando-Barreiras-na-Era-da-Inteligencia-Artificial/blob/1563e4f0cc5e1c3ba8f97fe8008c78d02fea199f/AUDIO%20PODCAST%20CODIGO%20DELAS.MP3)
+📕 [Clique aqui para ouvir o PodCast completo!](https://github.com/UmbelinaMoura/Podcast-O-Codigo-Delas-Quebrando-Barreiras-na-Era-da-Inteligencia-Artificial/blob/1563e4f0cc5e1c3ba8f97fe8008c78d02fea199f/AUDIO%20PODCAST%20CODIGO%20DELAS.MP3)
 
 
 # Projeto Podcast Gerado por I.A.s
