@@ -1,7 +1,7 @@
 # Podcast-O-Codigo-Delas-Quebrando-Barreiras-na-Era-da-Inteligencia-Artificial
 Podcast sobre os desafios femininos no mercado de trabalho digital
 
-📕 [Clique aqui para acessar epsódio completo!](https://github.com/UmbelinaMoura/E-book_De_Dentro_Para_Fora/blob/e7222fc7330b8f9fb163480e34eada35bc5fe088/PROJETO%20E-BOOK%20BOOTCAMP%20REVISADO.pdf)
+📕 [Clique aqui para acessar epsódio completo!](AUDIO DO PODCAST DIO CAIXA.mp3)
 
 
 # Projeto Podcast Gerado por I.A.s
